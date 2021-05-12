@@ -1,0 +1,1 @@
+Deve executar o Terraform na ordem numerica dos folders. 
