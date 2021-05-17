@@ -1,1 +1,0 @@
-Deve executar o Ansible na ordem numerica dos folders. 
